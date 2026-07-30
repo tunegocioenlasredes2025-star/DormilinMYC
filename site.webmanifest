@@ -1,0 +1,12 @@
+{
+  "name": "Dormilin | Muebles y Colchones",
+  "short_name": "Dormilin",
+  "description": "Fabricantes de muebles de pino y colchones en Morón.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#faf7f2",
+  "icons": [
+    { "src": "assets/logo-perfil.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
