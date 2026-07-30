@@ -132,7 +132,9 @@ p{margin:0}
     linear-gradient(180deg,var(--cream),var(--cream));}
 .hero .wrap{position:relative;z-index:1;display:grid;grid-template-columns:1.05fr .95fr;
   gap:56px;align-items:center}
-.hero-logo{width:min(330px,80%);margin-bottom:24px}
+.hero-eyebrow{display:inline-flex;align-items:center;gap:11px;margin-bottom:22px;
+  font-weight:700;font-size:.82rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2)}
+.hero-eyebrow .dots i{width:10px;height:10px}
 .hero h1{font-size:clamp(2.5rem,5.4vw,4.35rem);font-weight:300;letter-spacing:-.02em;color:var(--ink)}
 .hero h1 em{font-family:var(--f-serif);font-style:italic;font-weight:400;color:var(--coral)}
 .hero .lead{margin-top:24px;font-size:1.16rem;color:var(--ink-2);max-width:33ch}
